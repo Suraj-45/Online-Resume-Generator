@@ -1,0 +1,5 @@
+Paste it under the <head> tag.
+
+<script src="./removeBanner.js"></script>.
+
+subscribe hakistan for more videos.
